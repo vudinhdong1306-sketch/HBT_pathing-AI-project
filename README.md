@@ -1,4 +1,6 @@
 # HBT_pathing-AI-project
+This project is a web-based dynamic pathfinding application built with FastAPI (Python) and React (JavaScript), utilizing the A algorithm and a custom cost function to provide optimal routing that intelligently avoids real-time traffic congestion and flood zones.
+
 ```bash
 ## 🗂️ Project Structure
 hbt-routing-system/
